@@ -1,0 +1,113 @@
+{
+    "restaurant": {
+        "name": "R5",
+        "hallList": ["b1", "5", "b2", "폴라리스"
+        ]
+    },
+    "menuList": {
+        "morning": [
+            {
+                "title": "돼지고기고추장찌개",
+                "course": "찌개1",
+                "totalKcal": 1068,
+                "kcal": 361,
+                "list": [
+                    {
+                        "title": "흑미밥",
+                        "kcal": 346
+                    },
+                    {
+                        "title": "깻잎계란말이",
+                        "kcal": 243
+                    },
+                    {
+                        "title": "연근조림",
+                        "kcal": 80
+                    },
+                    {
+                        "title": "1종과일",
+                        "kcal": 38
+                    }
+                ]
+            }
+        ],
+        "lunch": [
+            {
+                "title": "돼지고기고추장찌개",
+                "course": "찌개1",
+                "totalKcal": 1068,
+                "kcal": 361,
+                "list": [
+                    {
+                        "title": "흑미밥",
+                        "kcal": 346
+                    },
+                    {
+                        "title": "깻잎계란말이",
+                        "kcal": 243
+                    },
+                    {
+                        "title": "연근조림",
+                        "kcal": 80
+                    },
+                    {
+                        "title": "1종과일",
+                        "kcal": 38
+                    }
+                ]
+            }
+        ],
+        "dinner": [
+            {
+                "title": "돼지고기고추장찌개",
+                "course": "찌개1",
+                "totalKcal": 1068,
+                "kcal": 361,
+                "list": [
+                    {
+                        "title": "흑미밥",
+                        "kcal": 346
+                    },
+                    {
+                        "title": "깻잎계란말이",
+                        "kcal": 243
+                    },
+                    {
+                        "title": "연근조림",
+                        "kcal": 80
+                    },
+                    {
+                        "title": "1종과일",
+                        "kcal": 38
+                    }
+                ]
+            }
+        ],
+        "midnight": [
+            {
+                "title": "돼지고기고추장찌개",
+                "course": "찌개1",
+                "totalKcal": 1068,
+                "kcal": 361,
+                "list": [
+                    {
+                        "title": "흑미밥",
+                        "kcal": 346
+                    },
+                    {
+                        "title": "깻잎계란말이",
+                        "kcal": 243
+                    },
+                    {
+                        "title": "연근조림",
+                        "kcal": 80
+                    },
+                    {
+                        "title": "1종과일",
+                        "kcal": 38
+                    }
+                ]
+            }
+        ]
+    }
+}
