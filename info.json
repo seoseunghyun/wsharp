@@ -10,7 +10,7 @@
         "smart",
         "family",
         "together",
-        "<script>alert('a')</script>"
+        "\"test=\""
     ],
     "message": null,
     "resourceMap": {
