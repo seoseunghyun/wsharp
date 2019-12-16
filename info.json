@@ -40,6 +40,12 @@
                 "kcal" : "color:white;",
                 "floor" : "color:white;"
             }
+        },
+        "샌드위치" : {
+            "className" : "sand1",
+            "css" : {
+                "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/sand1.jpg'); background-size: auto 100%;text-shadow: 2px 2px 4px #000000;"
+            }
         }
     }
 }
