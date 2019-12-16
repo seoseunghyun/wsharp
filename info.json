@@ -11,7 +11,10 @@
     "resourceMap" : {
         "찌개" : {
             "className" : "a1",
-            "backgroundColor" : "red",
+            "css" : {
+                "card" : "background: #fccc9d;",
+                "title" : "color:white;",
+            },
             "img" : "%HOME%/"
         }
     }
