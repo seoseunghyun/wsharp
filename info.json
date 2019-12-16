@@ -10,7 +10,8 @@
     },
     "resourceMap" : {
         "찌개" : {
-            "background" : "red",
+            "className" : "a1",
+            "backgroundColor" : "red",
             "img" : "%HOME%/"
         }
     }
