@@ -24,6 +24,12 @@
             "css" : {
                 "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/kimbab1.jpg'); background-size: auto 100%;"
             }
+        },
+        "주먹밥" : {
+            "className" : "kimbab1",
+            "css" : {
+                "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/joobab1.jpg'); background-size: auto 100%;"
+            }
         }
     }
 }
