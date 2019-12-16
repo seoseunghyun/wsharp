@@ -28,14 +28,14 @@
         "주먹밥" : {
             "className" : "joobab1",
             "css" : {
-                "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/joobab1.jpg'); background-size: auto 150%; background-position-y:-30%"
+                "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/joobab1.jpg'); background-size: auto 150%; background-position-y:-40%"
             }
         },
         "버거" : {
             "className" : "burger1",
             "css" : {
                 "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/burger1.jpg'); background-size: auto 100%;",
-                "title" : "color: white"
+                "title" : "color:"
             }
         }
     }
