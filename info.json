@@ -4,16 +4,13 @@
     "cafeteria" : [
         "r3","r4","r5"
     ],
-    "message" : {
-        "title" : "최신 버전으로 업데이트 하세요",
-        "contents" : "v0.0.2"
-    },
+    "message" : null,
     "resourceMap" : {
         "찌개" : {
             "className" : "a1",
             "css" : {
                 "card" : "background: #fccc9d;",
-                "title" : "color:white;",
+                "title" : "color:white;"
             },
             "img" : "%HOME%/"
         }
