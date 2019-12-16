@@ -11,15 +11,19 @@
             "className" : "a1",
             "css" : {
                 "card" : "background: #fde0c3;"
-            },
-            "img" : "%HOME%/"
+            }
         },
         "라면" : {
             "className" : "a2",
             "css" : {
                 "card" : "background: #fcbaa6;"
-            },
-            "img" : "%HOME%/"
+            }
+        },
+        "김밥" : {
+            "className" : "a2",
+            "css" : {
+                "card" : "background: url('http://seoseunghyun.github.io/resource/img/kimbab1.jpg');"
+            }
         }
     }
 }
