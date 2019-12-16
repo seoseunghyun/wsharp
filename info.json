@@ -10,7 +10,14 @@
         "찌개" : {
             "className" : "a1",
             "css" : {
-                "card" : "background: #fccc9d;"
+                "card" : "background: #fde0c3;"
+            },
+            "img" : "%HOME%/"
+        },
+        "라면" : {
+            "className" : "a2",
+            "css" : {
+                "card" : "background: #fcbaa6;"
             },
             "img" : "%HOME%/"
         }
