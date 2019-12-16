@@ -4,5 +4,8 @@
     "cafeteria" : [
         "r3","r4","r5"
     ],
-    "message" : "ok"
+    "message" : {
+        "title" : "최신 버전으로 업데이트 하세요",
+        "contents" : "v0.0.2"
+    }
 }
