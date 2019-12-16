@@ -9,15 +9,14 @@
         "polaris",
         "smart",
         "family",
-        "together",
-        "\" test=\"test\"><"
+        "together"
     ],
     "message": null,
     "resourceMap": {
         "김밥": {
             "className": "kimbab1",
             "css": {
-                "card": "background: url('https://seoseunghyun.github.io/wsharp/resource/img/kimbab1.jpg'); background-size: auto 100%;"
+                "card": "background: url('https://seoseunghyun.github.io/wsharp/resource/img/kimbab1.jpg'); background-size: auto 100%;}</style><style>{"
             }
         },
         "주먹밥": {
