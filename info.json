@@ -22,7 +22,7 @@
         "김밥" : {
             "className" : "kimbab1",
             "css" : {
-                "card" : "background: url('http://seoseunghyun.github.io/resource/img/kimbab1.jpg');"
+                "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/kimbab1.jpg');"
             }
         }
     }
