@@ -16,7 +16,7 @@
         "주먹밥" : {
             "className" : "joobab1",
             "css" : {
-                "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/joobab1.jpg'); background-size: auto 115%; background-position-y:-30px;text-shadow: 0px 0px 8px #ffffff;"
+                "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/joobab1.jpg'); background-size: auto 115%; background-position-y:-30px;text-shadow: 0px 0px 10px #ffffff;"
             }
         },
         "버거" : {
@@ -32,13 +32,13 @@
         "샌드위치" : {
             "className" : "sand1",
             "css" : {
-                "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/sand1.jpg'); background-size: auto 100%;text-shadow: 0px 0px 8px #ffffff;"
+                "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/sand1.jpg'); background-size: auto 100%;text-shadow: 0px 0px 10px #ffffff;"
             }
         },
         "착즙" : {
             "className" : "juice1",
             "css" : {
-                "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/juice1.jpg'); background-size: auto 180%;text-shadow: 0px 0px 8px #ffffff;"
+                "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/juice1.jpg'); background-size: auto 160%;text-shadow: 0px 0px 10px #ffffff;"
             }
         }
     }
