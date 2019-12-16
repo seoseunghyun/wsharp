@@ -1,6 +1,7 @@
 {
     "latestVersion" : "1",
     "updateUrl" : "http://seunghyun.net",
+    "updateContents" : "테스트 입니다. \r\n테스트",
     "cafeteria" : [
         "r3","r4","r5", "polaris", "smart", "family", "together"
     ],
