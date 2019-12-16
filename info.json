@@ -2,15 +2,14 @@
     "latestVersion" : "1",
     "url" : "http://seunghyun.net",
     "cafeteria" : [
-        "r3","r4","r5"
+        "r3","r4","r5", "poralis", "smart", "family", "together"
     ],
     "message" : null,
     "resourceMap" : {
         "찌개" : {
             "className" : "a1",
             "css" : {
-                "card" : "background: #fccc9d;",
-                "title" : "color:white;"
+                "card" : "background: #fccc9d;"
             },
             "img" : "%HOME%/"
         }
