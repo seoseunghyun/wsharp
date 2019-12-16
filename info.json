@@ -35,7 +35,7 @@
             "className" : "burger1",
             "css" : {
                 "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/burger1.jpg'); background-size: auto 100%;",
-                "title" : "color:white;",
+                "title" : "color:white;text-shadow: 2px 2px 4px #ffffff;",
                 "course" : "color: white;",
                 "kcal" : "color:white;",
                 "floor" : "color:white;"
