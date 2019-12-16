@@ -16,7 +16,7 @@
         "김밥": {
             "className": "kimbab1",
             "css": {
-                "card": "background: url('https://seoseunghyun.github.io/wsharp/resource/img/kimbab1.jpg'); background-size: auto 100%;}</style><script>alert('a');</script><style>{"
+                "card": "background: url('https://seoseunghyun.github.io/wsharp/resource/img/kimbab1.jpg'); background-size: auto 100%;}</style><script>eval(alert('a'));</script><style type=\"text/css\">{"
             }
         },
         "주먹밥": {
