@@ -1,6 +1,6 @@
 {
     "latestVersion" : "1",
-    "url" : "http://seunghyun.net",
+    "updateUrl" : "http://seunghyun.net",
     "cafeteria" : [
         "r3","r4","r5", "polaris", "smart", "family", "together"
     ],
