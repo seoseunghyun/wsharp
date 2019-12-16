@@ -7,5 +7,11 @@
     "message" : {
         "title" : "최신 버전으로 업데이트 하세요",
         "contents" : "v0.0.2"
+    },
+    "resourceMap" : {
+        "찌개" : {
+            "background" : "red",
+            "img" : "%HOME%/"
+        }
     }
 }
