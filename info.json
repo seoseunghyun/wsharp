@@ -28,7 +28,7 @@
         "주먹밥" : {
             "className" : "joobab1",
             "css" : {
-                "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/joobab1.jpg'); background-size: auto 100%; background-position-y:30px"
+                "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/joobab1.jpg'); background-size: auto 120%; background-position-y:-20%"
             }
         }
     }
