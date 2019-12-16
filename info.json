@@ -20,7 +20,7 @@
             }
         },
         "김밥" : {
-            "className" : "a2",
+            "className" : "a3",
             "css" : {
                 "card" : "background: url('http://seoseunghyun.github.io/resource/img/kimbab1.jpg');"
             }
