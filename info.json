@@ -1,44 +1,50 @@
 {
-    "latestVersion" : -1,
-    "updateUrl" : "http://seunghyun.net",
-    "updateContents" : "테스트 입니다. \r\n테스트",
-    "cafeteria" : [
-        "r3","r4","r5", "polaris", "smart", "family", "together"
+    "latestVersion": -1,
+    "updateUrl": "http://test.io",
+    "updateContents": "테스트 입니다.\r\n테스트",
+    "cafeteria": [
+        "r3",
+        "r4",
+        "r5",
+        "polaris",
+        "smart",
+        "family",
+        "together"
     ],
-    "message" : null,
-    "resourceMap" : {
-        "김밥" : {
-            "className" : "kimbab1",
-            "css" : {
-                "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/kimbab1.jpg'); background-size: auto 100%;"
+    "message": null,
+    "resourceMap": {
+        "김밥": {
+            "className": "kimbab1",
+            "css": {
+                "card": "background: url('https://seoseunghyun.github.io/wsharp/resource/img/kimbab1.jpg'); background-size: auto 100%;"
             }
         },
-        "주먹밥" : {
-            "className" : "joobab1",
-            "css" : {
-                "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/joobab1.jpg'); background-size: auto 115%; background-position-y:-30px;text-shadow: 0px 0px 10px #ffffff;"
+        "주먹밥": {
+            "className": "joobab1",
+            "css": {
+                "card": "background: url('https://seoseunghyun.github.io/wsharp/resource/img/joobab1.jpg'); background-size: auto 115%; background-position-y:-30px;text-shadow: 0px 0px 15px #ffffff;"
             }
         },
-        "버거" : {
-            "className" : "burger1",
-            "css" : {
-                "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/burger1.jpg'); background-size: auto 100%;",
-                "title" : "color:white;",
-                "course" : "color: white;",
-                "kcal" : "color:white;",
-                "floor" : "color:white;"
+        "버거": {
+            "className": "burger1",
+            "css": {
+                "card": "background: url('https://seoseunghyun.github.io/wsharp/resource/img/burger1.jpg'); background-size: auto 100%;",
+                "title": "color:white;",
+                "course": "color: white;",
+                "kcal": "color:white;",
+                "floor": "color:white;"
             }
         },
-        "샌드위치" : {
-            "className" : "sand1",
-            "css" : {
-                "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/sand1.jpg'); background-size: auto 100%;text-shadow: 0px 0px 10px #ffffff;"
+        "샌드위치": {
+            "className": "sand1",
+            "css": {
+                "card": "background: url('https://seoseunghyun.github.io/wsharp/resource/img/sand1.jpg'); background-size: auto 100%;text-shadow: 0px 0px 10px #ffffff;"
             }
         },
-        "착즙" : {
-            "className" : "juice1",
-            "css" : {
-                "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/juice1.jpg'); background-size: auto 160%;text-shadow: 0px 0px 10px #ffffff;"
+        "착즙": {
+            "className": "juice1",
+            "css": {
+                "card": "background: url('https://seoseunghyun.github.io/wsharp/resource/img/juice1.jpg'); background-size: auto 160%;text-shadow: 0px 0px 10px #ffffff;"
             }
         }
     }
