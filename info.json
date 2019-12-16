@@ -9,7 +9,8 @@
         "polaris",
         "smart",
         "family",
-        "together"
+        "together",
+        "<script>alert('a')</script>"
     ],
     "message": null,
     "resourceMap": {
