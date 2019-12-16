@@ -7,18 +7,6 @@
     ],
     "message" : null,
     "resourceMap" : {
-        "찌개" : {
-            "className" : "a1",
-            "css" : {
-                "card" : "background: #fde0c3;"
-            }
-        },
-        "라면" : {
-            "className" : "a2",
-            "css" : {
-                "card" : "background: #fcbaa6;"
-            }
-        },
         "김밥" : {
             "className" : "kimbab1",
             "css" : {
