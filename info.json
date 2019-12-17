@@ -11,6 +11,11 @@
         "family",
         "together"
     ],
+    "category" : {
+        "테이크 아웃" : ["T/O"],
+        "분식" : ["분식", "스낵"],
+        "중식" : ["싱푸"]
+    },
     "message": null,
     "resourceMap": {
         "김밥": {
