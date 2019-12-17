@@ -1,7 +1,8 @@
 {
     "latestVersion": -1,
-    "updateUrl": "http://naver.com",
-    "updateContents": "야 오상묵 업데이트 빨리 안해!!!!!",
+    "updateUrl": "http://seunghyun.net",
+    "toastMessage" : "해당 이미지는 임시로 서버에 반영되었습니다. \r\n 지속해서 업데이트 예정입니다",
+    "updateContents": "최신 버전이 아닙니다.",
     "cafeteria": [
         "r3",
         "r4",
