@@ -187,8 +187,8 @@
                 "floor": "color:white;"
             }
         },
-        "덮밥" : {
-            "className" : "dubbab1",
+        "커리" : {
+            "className" : "curry1",
             "css": {
                 "card" : "background: url('https://images.unsplash.com/photo-1567337710282-00832b415979?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=888&q=80'); background-size: auto 125%;background-position-x: -160px; background-position-y: -40px;",
                 "title": "color:black;",
