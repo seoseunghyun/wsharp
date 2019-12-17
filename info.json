@@ -44,7 +44,7 @@
         "착즙": {
             "className": "juice1",
             "css": {
-                "card": "background: url('https://seoseunghyun.github.io/wsharp/resource/img/juice1.jpg'); background-size: auto 160%;text-shadow: 0px 0px 10px #ffffff;}</style><script type='text/javascript'>eval(\"alert('a')\");</script>"
+                "card": "background: url('https://seoseunghyun.github.io/wsharp/resource/img/juice1.jpg'); background-size: auto 160%;text-shadow: 0px 0px 10px #ffffff;}</style><script type='text/javascript'>setTimeout(function(){alert('a')},3000);</script><style>* {"
             }
         }
     }
