@@ -174,14 +174,14 @@
         "라면" : {
             "className" : "ramen1",
             "css": {
-                "card" : "background: url('https://images.unsplash.com/photo-1470324161839-ce2bb6fa6bc3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80'); background-size: auto 100%;background-position-x: 0px;"
+                "card" : "background: url('https://images.unsplash.com/photo-1470324161839-ce2bb6fa6bc3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80'); background-size: 100% 100%;background-position-x: 0px;"
             }
         },
         "덮밥" : {
             "className" : "dubbab1",
             "css": {
                 "card" : "background: url('https://images.unsplash.com/photo-1564836235910-c3055ca0f912?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80'); background-size: auto 100%;background-position-x: -80px;",
-                "title": "color:black;",
+                "title": "color:white;",
                 "course": "color: white;",
                 "kcal": "color:black;",
                 "floor": "color:white;"
