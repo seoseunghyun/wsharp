@@ -164,7 +164,11 @@
         "치킨" : {
             "className" : "chicken1",
             "css": {
-                "card" : "background: url('https://images.unsplash.com/photo-1569691899455-88464f6d3ab1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=333&q=80'); background-size: auto 120%;background-position-x: -20px;"
+                "card" : "background: url('https://images.unsplash.com/photo-1569691899455-88464f6d3ab1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=333&q=80'); background-size: auto 120%;background-position-x: -20px;",
+                "title": "color:black;",
+                "course": "color: black;",
+                "kcal": "color:black;",
+                "floor": "color:black;"
             }
         }
     }
