@@ -118,6 +118,48 @@
                 "kcal": "color:white;",
                 "floor": "color:white;"
             }
+        },
+        "파스타" : {
+            "className" : "pasta1",
+            "css": {
+                "card" : "background: url('https://images.unsplash.com/photo-1556761223-4c4282c73f77?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=401&q=80'); background-size: auto 100%; background-position-x: -25px;",
+                "title": "color:white;",
+                "course": "color: white;",
+                "kcal": "color:white;",
+                "floor": "color:white;"
+            }
+        },
+        "리조또" : {
+            "className" : "rosotto1",
+            "css": {
+                "card" : "background: url('https://images.unsplash.com/photo-1476124369491-e7addf5db371?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80'); background-size: auto 100%; background-position-x: -50px;"
+            }
+        },
+        "탕" : {
+            "className" : "tang1",
+            "css": {
+                "card" : "background: url('https://images.unsplash.com/photo-1521136686176-732808c0fcc1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=347&q=80'); background-size: auto 100%;"
+            }
+        },
+        "돈가스" : {
+            "className" : "porkcurtlet1",
+            "css": {
+                "card" : "background: url('https://images.unsplash.com/photo-1569050467447-ce54b3bbc37d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80'); background-size: auto 120%;background-position-x: -20px;",
+                "title": "color:white;",
+                "course": "color: white;",
+                "kcal": "color:white;",
+                "floor": "color:white;"
+            }
+        },
+        "까스" : {
+            "className" : "porkcurtlet1",
+            "css": {
+                "card" : "background: url('https://images.unsplash.com/photo-1569050467447-ce54b3bbc37d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80'); background-size: auto 120%;background-position-x: -20px;",
+                "title": "color:white;",
+                "course": "color: white;",
+                "kcal": "color:white;",
+                "floor": "color:white;"
+            }
         }
     }
 }
