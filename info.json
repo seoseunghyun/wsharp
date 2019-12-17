@@ -96,6 +96,28 @@
                 "kcal": "color:white;",
                 "floor": "color:white;"
             }
+        },
+        "피자" : {
+            "className" : "pizza1",
+            "css": {
+                "card" : "background: url('https://images.unsplash.com/photo-1546993641-097e8366bba0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80'); background-size: auto 150%; background-position-x: -30px;"
+            }
+        },
+        "스테이크" : {
+            "className" : "steak1",
+            "css": {
+                "card" : "background: url('https://images.unsplash.com/photo-1558199141-391d935676f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1001&q=80'); background-size: auto 110%; background-position-x: -30px;"
+            }
+        },
+        "쌀국수" : {
+            "className" : "ricenoodle1",
+            "css": {
+                "card" : "background: url('https://images.unsplash.com/photo-1503764654157-72d979d9af2f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1053&q=80'); background-size: auto 100%; background-position-x: -60px;",
+                "title": "color:white;",
+                "course": "color: white;",
+                "kcal": "color:white;",
+                "floor": "color:white;"
+            }
         }
     }
 }
