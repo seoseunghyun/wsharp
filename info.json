@@ -11,10 +11,7 @@
         "family",
         "together"
     ],
-    "message": {
-        "title":"test <script>alert('a')</script>",
-        "contents" : "test <script>alert('b')</script>"
-    },
+    "message": null,
     "resourceMap": {
         "김밥": {
             "className": "kimbab1",
