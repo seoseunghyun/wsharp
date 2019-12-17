@@ -182,8 +182,8 @@
             "css": {
                 "card" : "background: url('https://images.unsplash.com/photo-1564836235910-c3055ca0f912?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80'); background-size: auto 100%;background-position-x: -80px;",
                 "title": "color:white;",
-                "course": "color: white;",
-                "kcal": "color:black;",
+                "course": "color: black;",
+                "kcal": "color:white;",
                 "floor": "color:white;"
             }
         },
