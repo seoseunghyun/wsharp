@@ -1,7 +1,7 @@
 {
-    "latestVersion": -1,
-    "updateUrl": "http://test.io",
-    "updateContents": "테스트 입니다.\r\n테스트",
+    "latestVersion": 1,
+    "updateUrl": "http://naver.com",
+    "updateContents": "야 오상묵 업데이트 빨리 안해!!!!!",
     "cafeteria": [
         "r3",
         "r4",
