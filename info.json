@@ -48,7 +48,7 @@
         "샌드위치": {
             "className": "sand1",
             "css": {
-                "card": "background: url('https://images.unsplash.com/photo-1559466273-d95e72debaf8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80'); background-size: auto 100%;"
+                "card": "background: url('https://images.unsplash.com/photo-1559466273-d95e72debaf8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80'); background-size: 100% auto;"
             }
         },
         "착즙": {
@@ -61,6 +61,22 @@
             "className" : "salad1",
             "css": {
                 "card" : "background: url('https://images.unsplash.com/photo-1543339308-43e59d6b73a6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80'); background-size: auto 120%;background-position-x:-110px;"
+            }
+        },
+        "컵푸드" : {
+            "className" : "salad1",
+            "css": {
+                "card" : "background: url('https://images.unsplash.com/photo-1501152860390-73e9144ad3a8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80'); background-size: auto 120%;"
+            }
+        },
+        "빵" : {
+            "className" : "salad1",
+            "css": {
+                "card" : "background: url('https://images.unsplash.com/photo-1545288605-a5ff98c14330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=333&q=80'); background-size: auto 140%; background-position-y: -50px;",
+                "title": "color:white;",
+                "course": "color: white;",
+                "kcal": "color:white;",
+                "floor": "color:white;"
             }
         }
     }
