@@ -202,6 +202,6 @@
             "css": {
                 "card" : "background: url('https://images.unsplash.com/photo-1560963805-6c64417e3413?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1021&q=80'); background-size: auto 120%; background-position-x: -60px;"
             }
-        },
+        }
     }
 }
