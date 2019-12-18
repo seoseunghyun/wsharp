@@ -1,7 +1,7 @@
 {
     "latestVersion": -1,
     "updateUrl": "http://seunghyun.net",
-    "toastMessage" : "본 프로그램은 베타버전입니다.\r\n\r\n음식 이미지는 임시로 서버에 반영되었습니다. \r\n 지속해서  업데이트 예정입니다.",
+    "toastMessage" : "본 프로그램은 베타버전입니다.\r\n\r\n(음식 이미지는 임시로 서버에 반영되었습니다. \r\n 지속해서 업데이트 예정입니다.)",
     "updateContents": "최신 버전이 아닙니다.",
     "cafeteria": [
         "r3",
