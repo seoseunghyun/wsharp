@@ -1,7 +1,7 @@
 {
     "latestVersion": -1,
     "updateUrl": "http://seunghyun.net",
-    "toastMessage" : "[공지 - 12/18 오전 10시]\r\n\r\n본 프로그램은 베타버전입니다.\r\n\r\n(음식 그림 없는건 렉걸린게 아니라, 이쁜 이미지를 아직 못찾았어요. ㅠㅜ\r\n 이미지 찾아서 서버 사이드로 자동 업데이트 될 예정입니다.)\r\n\r\n by 서버 메시지",
+    "toastMessage" : "[공지 - 12/18 10:47]\r\n\r\n음식 그림 없는 것 = 이쁜 이미지 못찾았어요ㅠㅜ\r\n(서버 적용되면 자동으로 그림 적용됨)",
     "updateContents": "최신 버전이 아닙니다.",
     "cafeteria": [
         "r3",
