@@ -161,13 +161,37 @@
         "라면" : {
             "className" : "ramen1",
             "css": {
-                "card" : "background: url('https://images.unsplash.com/photo-1470324161839-ce2bb6fa6bc3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80'); background-size: 100% 100%;background-position-x: 0px;"
+                "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/ramen2.jpg'); background-size: 100% auto; background-position-y: bottom;",
+                "title": "color:white;",
+                "course": "color: white;",
+                "kcal": "color:white;",
+                "floor": "color:white;"
             }
         },
         "수제비" : {
             "className" : "suzaebi1",
             "css": {
                 "card" : "background: url('https://images.unsplash.com/photo-1560963805-6c64417e3413?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1021&q=80'); background-size: auto 120%; background-position-x: -60px;"
+            }
+        },
+        "아메리칸" : {
+            "className" : "american1",
+            "css": {
+                "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/american1.jpg'); background-size: 100% auto;",
+                "title": "color:black;",
+                "course": "color: black;",
+                "kcal": "color:white;",
+                "floor": "color:white;"
+            }
+        },
+        "라멘" : {
+            "className" : "ramen2",
+            "css": {
+                "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/ramen2.jpg'); background-size: 100% auto; background-position-y: bottom;",
+                "title": "color:white;",
+                "course": "color: white;",
+                "kcal": "color:white;",
+                "floor": "color:white;"
             }
         }
     }
