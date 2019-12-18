@@ -115,16 +115,6 @@
                 "card" : "background: url('https://images.unsplash.com/photo-1558199141-391d935676f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1001&q=80'); background-size: auto 110%; background-position-x: -30px;"
             }
         },
-        "쌀국수" : {
-            "className" : "ricenoodle1",
-            "css": {
-                "card" : "background: url('https://images.unsplash.com/photo-1503764654157-72d979d9af2f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1053&q=80'); background-size: auto 100%; background-position-x: -60px;",
-                "title": "color:white;",
-                "course": "color: white;",
-                "kcal": "color:white;",
-                "floor": "color:white;"
-            }
-        },
         "파스타" : {
             "className" : "pasta1",
             "css": {
