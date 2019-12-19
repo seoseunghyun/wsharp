@@ -1,0 +1,228 @@
+{
+    "latestVersion": -1,
+    "updateUrl": "http://seunghyun.net",
+    "toastMessage" : "\r\n\r\n[TIP!]\r\n\r\n음식을 누르면 디테일 칼로리가!?\r\n\r\n",
+    "updateContents": "최신 버전이 아닙니다.",
+    "cafeteria": [
+        "r3",
+        "r4",
+        "r5",
+        "polaris",
+        "smart",
+        "family",
+        "together",
+        "우면"
+    ],
+    "category" : {
+        "~ 테이크아웃 ~" : ["T/O"],
+        "~ 일식 ~" : ["가츠엔", "우동", "라멘"],
+        "~ 인도식 ~" : ["커리", "케밥"],
+        "~ 아시안 ~" : ["분짜", "팔락파니르", "팟타이", "쌀국수"],
+        "+ 추가 반찬 +" : ["추가찬", "추가", "셀프"],
+        "~ 분식 ~" : ["분식", "떡볶이", "순대", "튀김", "도시락", "라면", "짜파게티", "쫄면", "라볶이"],
+        "~ 중국식 ~" : ["짜장", "짬뽕", "탕수육", "중국", "자장", "류산슬", "팔보채"],
+        "~ 양식 ~" : ["밀푀유", "나폴리", "스테이크", "돈가스", "그라탕", "리조또", "콤보", "치킨", "파니니", "피자", "아메리칸", "버거", "파스타", "오므라이스", "하이라이스", "미트볼"],
+        "~ 한식 ~" : ["찌개", "국수", "비빔밥", "쫄면", "고등어", "돌솥", "알밥", "우거지", "해장국", "닭찜", "찜닭", "매생이", "떡국", "전골", "김치", "뚝배기", "쇠고기볶음","순대국","순댓국", "닭갈비", "마늘종", "어묵탕", "오징어볶음", "영양밥", "밀면", "덮밥", "황태", "고추장볶음", "닭곰탕", "육개장", "삼겹살", "탕면", "볶음밥", "국밥", "죽", "미역국", "보쌈", "수제비", "한방", "가자미"]
+    },
+    "message": null,
+    "resourceMap": {
+        "" : {
+            "className" : "bin1",
+            "css": {
+                "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/pending.jpg'); background-size: auto 100%; background-position-x:center;background-position-y:20px;",
+                "title": "color:black;font-size:17px;",
+                "course": "color: black;",
+                "kcal": "color:black;",
+                "floor": "color:black;"
+            }
+        },
+        "면" : {
+            "className" : "bin2",
+            "css": {
+                "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/pending2.jpg'); background-size: auto 100%; background-position-x:center;background-position-y:20px;",
+                "title": "color:black;font-size:17px;",
+                "course": "color: black;",
+                "kcal": "color:black;",
+                "floor": "color:black;"
+            }
+        },
+        "밥" : {
+            "className" : "bin3",
+            "css": {
+                "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/pending4.jpg'); background-size: auto 100%; background-position-x:center;background-position-y:20px;",
+                "title": "color:black;font-size:17px;",
+                "course": "color: black;",
+                "kcal": "color:black;",
+                "floor": "color:black;"
+            }
+        },
+        "김밥": {
+            "className": "kimbab1",
+            "css": {
+                "card": "background: url('https://seoseunghyun.github.io/wsharp/resource/img/kimbab1.jpg'); background-size: auto 100%;"
+            }
+        },
+        "찌개" : {
+            "className" : "jjigae1",
+            "css": {
+                "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/jjigae1.gif'); background-size: auto 140%;background-position-x:-100px;",
+                "title": "color:white;",
+                "course": "color: white;",
+                "kcal": "color:white;",
+                "floor": "color:white;"
+            }
+        },
+        "버거": {
+            "className": "burger1",
+            "css": {
+                "card": "background: url('https://seoseunghyun.github.io/wsharp/resource/img/burger1.jpg'); background-size: auto 100%;",
+                "title": "color:white;",
+                "course": "color: white;",
+                "kcal": "color:white;",
+                "floor": "color:white;"
+            }
+        },
+        "샌드위치": {
+            "className": "sand1",
+            "css": {
+                "card": "background: url('https://images.unsplash.com/photo-1559466273-d95e72debaf8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80'); background-size: 100% auto;"
+            }
+        },
+        "착즙": {
+            "className": "juice1",
+            "css": {
+                "card": "background: url('https://seoseunghyun.github.io/wsharp/resource/img/juice1.jpg'); background-size: auto 160%;text-shadow: 0px 0px 10px #ffffff;"
+            }
+        },
+        "샐러드" : {
+            "className" : "salad1",
+            "css": {
+                "card" : "background: url('https://images.unsplash.com/photo-1543339308-43e59d6b73a6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80'); background-size: auto 120%;background-position-x:-110px;"
+            }
+        },
+        "컵푸드" : {
+            "className" : "cup1",
+            "css": {
+                "card" : "background: url('https://images.unsplash.com/photo-1501152860390-73e9144ad3a8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80'); background-size: auto 120%;"
+            }
+        },
+        "빵" : {
+            "className" : "bread1",
+            "css": {
+                "card" : "background: url('https://images.unsplash.com/photo-1545288605-a5ff98c14330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=333&q=80'); background-size: auto 140%; background-position-y: -50px;",
+                "title": "color:white;",
+                "course": "color: white;",
+                "kcal": "color:white;",
+                "floor": "color:white;"
+            }
+        },
+        "죽" : {
+            "className" : "zook1",
+            "css": {
+                "card" : "background: url('https://images.unsplash.com/photo-1476718406336-bb5a9690ee2a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80'); background-size: auto 160%; background-position-y: -100px;",
+                "title": "color:white;",
+                "course": "color: white;"
+            }
+        },
+        "컵밥" : {
+            "className" : "cupbab1",
+            "css": {
+                "card" : "background: url('https://images.unsplash.com/photo-1520908168341-66a5705cd741?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80'); background-size: auto 170%; background-position-x: -220px; background-position-y: -50px;",
+                "title": "color:white;",
+                "course": "color: white;",
+                "kcal": "color:white;",
+                "floor": "color:white;"
+            }
+        },
+        "피자" : {
+            "className" : "pizza1",
+            "css": {
+                "card" : "background: url('https://images.unsplash.com/photo-1546993641-097e8366bba0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80'); background-size: auto 150%; background-position-x: -30px;"
+            }
+        },
+        "스테이크" : {
+            "className" : "steak1",
+            "css": {
+                "card" : "background: url('https://images.unsplash.com/photo-1558199141-391d935676f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1001&q=80'); background-size: auto 110%; background-position-x: -30px;"
+            }
+        },
+        "파스타" : {
+            "className" : "pasta1",
+            "css": {
+                "card" : "background: url('https://images.unsplash.com/photo-1556761223-4c4282c73f77?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=401&q=80'); background-size: auto 100%; background-position-x: -25px;",
+                "title": "color:white;",
+                "course": "color: white;",
+                "kcal": "color:white;",
+                "floor": "color:white;"
+            }
+        },
+        "리조또" : {
+            "className" : "rosotto1",
+            "css": {
+                "card" : "background: url('https://images.unsplash.com/photo-1476124369491-e7addf5db371?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80'); background-size: auto 100%; background-position-x: -50px;"
+            }
+        },
+        "탕" : {
+            "className" : "tang1",
+            "css": {
+                "card" : "background: url('https://images.unsplash.com/photo-1521136686176-732808c0fcc1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=347&q=80'); background-size: 100% auto;"
+            }
+        },
+        "돈가스" : {
+            "className" : "porkcurtlet1",
+            "css": {
+                "card" : "background: url('https://images.unsplash.com/photo-1569050467447-ce54b3bbc37d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80'); background-size: auto 120%;background-position-x: -20px;",
+                "title": "color:white;",
+                "course": "color: white;",
+                "kcal": "color:white;",
+                "floor": "color:white;"
+            }
+        },
+        "까스" : {
+            "className" : "porkcurtlet1",
+            "css": {
+                "card" : "background: url('https://images.unsplash.com/photo-1569050467447-ce54b3bbc37d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80'); background-size: auto 120%;background-position-x: -20px;",
+                "title": "color:white;",
+                "course": "color: white;",
+                "kcal": "color:white;",
+                "floor": "color:white;"
+            }
+        },
+        "라면" : {
+            "className" : "ramen1",
+            "css": {
+                "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/ramen2.jpg'); background-size: 100% auto; background-position-y: bottom;",
+                "title": "color:white;",
+                "course": "color: white;",
+                "kcal": "color:white;",
+                "floor": "color:white;"
+            }
+        },
+        "수제비" : {
+            "className" : "suzaebi1",
+            "css": {
+                "card" : "background: url('https://images.unsplash.com/photo-1560963805-6c64417e3413?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1021&q=80'); background-size: auto 120%; background-position-x: -60px;"
+            }
+        },
+        "아메리칸" : {
+            "className" : "american1",
+            "css": {
+                "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/american1.jpg'); background-size: 100% auto;",
+                "title": "color:black;",
+                "course": "color: black;",
+                "kcal": "color:white;",
+                "floor": "color:white;"
+            }
+        },
+        "라멘" : {
+            "className" : "ramen2",
+            "css": {
+                "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/ramen2.jpg'); background-size: 100% auto; background-position-y: bottom;",
+                "title": "color:white;",
+                "course": "color: white;",
+                "kcal": "color:white;",
+                "floor": "color:white;"
+            }
+        }
+    }
+}
