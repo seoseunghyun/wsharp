@@ -49,7 +49,7 @@
         "밥" : {
             "className" : "bin3",
             "css": {
-                "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/pending1.gif'); background-size: auto 100%; background-position-x:center;background-position-y:20px",
+                "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/pending1.gif'); background-size: auto 100%; background-position-x:center;",
                 "title": "color:black;font-size:17px;",
                 "course": "color: black;",
                 "kcal": "color:black;",
