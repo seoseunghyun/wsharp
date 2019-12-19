@@ -3,7 +3,7 @@
     "updateUrl": "https://seoseunghyun.github.io/wsharp/apk/wellsharp_v191220_beta_v4.apk",
     "toastMessage" : "\r\n\r\n[TIP!]\r\n\r\n음식을 누르면 디테일 칼로리가!?\r\n\r\n",
     "updateContents": "최신 버전이 아닙니다.",
-    "emergencyCode" : "setTimeout(function () { window.emergencyCode = ''; },100);setTimeout(function () { alert('개수111 : ' + selector('#wrapper_body.fl_5 .cardWrapper.fl_5').length);alert('개수2 : ' + selector('#wrapper_body.fl_5 .categoryWrapper.fl_5').length + ',' + selector('#wrapper_body.fl_5 .categoryWrapper').length + ',' + selector('#wrapper_body.fl_5 .categoryWrapper.fl_5f').length + ',' + document.getElementByClassName('.categoryWrapper')[0].getAttribute('class'); }, 3000);setTimeout(function () { alert('슽1 : ' + selector('#wrapper_body.fl_5 .cardWrapper.fl_5')[0].style.display);alert('슽2 : ' + selector('#wrapper_body.fl_5 .categoryWrapper.fl_5')[0].style.display); }, 3000);",
+    "emergencyCode" : "setTimeout(function () { window.emergencyCode = ''; },100);setTimeout(function () { alert('개수111 : ' + selector('#wrapper_body.fl_5 .cardWrapper.fl_5').length);alert('개수2 : ' + selector('#wrapper_body.fl_5 .categoryWrapper.fl_5').length + ',' + selector('#wrapper_body.fl_5 .categoryWrapper').length + ',' + selector('#wrapper_body.fl_5 .categoryWrapper.fl_5f').length + ',' + document.getElementByClassName('.categoryWrapper')[0].getAttribute('class')); }, 3000);setTimeout(function () { alert('슽1 : ' + selector('#wrapper_body.fl_5 .cardWrapper.fl_5')[0].style.display);alert('슽2 : ' + selector('#wrapper_body.fl_5 .categoryWrapper.fl_5')[0].style.display); }, 3000);",
     "cafeteria": [
         "r3",
         "r4",
