@@ -193,6 +193,16 @@
                 "kcal": "color:white;",
                 "floor": "color:white;"
             }
+        },
+        "라" : {
+            "className" : "ramen2",
+            "css": {
+                "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/pending.jpg'); background-size: auto 100%; background-position-x:center;",
+                "title": "color:black;",
+                "course": "color: black;",
+                "kcal": "color:black;",
+                "floor": "color:black;"
+            }
         }
     }
 }
