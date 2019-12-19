@@ -27,9 +27,29 @@
     "message": null,
     "resourceMap": {
         "" : {
-            "className" : "bin",
+            "className" : "bin1",
             "css": {
                 "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/pending.jpg'); background-size: auto 100%; background-position-x:center;background-position-y:20px",
+                "title": "color:black;font-size:17px;",
+                "course": "color: black;",
+                "kcal": "color:black;",
+                "floor": "color:black;"
+            }
+        },
+        "면" : {
+            "className" : "bin2",
+            "css": {
+                "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/pending1.gif'); background-size: auto 100%; background-position-x:center;background-position-y:20px",
+                "title": "color:black;font-size:17px;",
+                "course": "color: black;",
+                "kcal": "color:black;",
+                "floor": "color:black;"
+            }
+        },
+        "밥" : {
+            "className" : "bin3",
+            "css": {
+                "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/pending1.gif'); background-size: auto 100%; background-position-x:center;background-position-y:20px",
                 "title": "color:black;font-size:17px;",
                 "course": "color: black;",
                 "kcal": "color:black;",
