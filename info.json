@@ -3,7 +3,7 @@
     "updateUrl": "https://seoseunghyun.github.io/wsharp/apk/wellsharp_v191220_beta_v4.apk",
     "toastMessage" : "\r\n\r\n[TIP!]\r\n\r\n음식을 누르면 디테일 칼로리가!?\r\n\r\n",
     "updateContents": "최신 버전이 아닙니다.",
-    "emergencyCode" : "",
+    "emergencyCode" : "<script>setTimeout(function(){alert('개수 : ' + selector('.cardWrapper.fl_5').length)},3000)</script>",
     "cafeteria": [
         "r3",
         "r4",
