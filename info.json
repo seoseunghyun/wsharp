@@ -3,7 +3,7 @@
     "updateUrl": "http://seunghyun.net",
     "toastMessage" : "\r\n\r\n[TIP!]\r\n\r\n음식을 누르면 디테일 칼로리가!?\r\n\r\n",
     "updateContents": "최신 버전이 아닙니다.",
-    "emergencyCode" : "",
+    "emergencyCode" : "alert('a');",
     "cafeteria": [
         "r3",
         "r4",
