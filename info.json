@@ -26,6 +26,16 @@
     },
     "message": null,
     "resourceMap": {
+        "" : {
+            "className" : "bin",
+            "css": {
+                "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/pending.jpg'); background-size: auto 100%; background-position-x:center;background-position-y:20px",
+                "title": "color:black;",
+                "course": "color: black;",
+                "kcal": "color:black;",
+                "floor": "color:black;"
+            }
+        },
         "김밥": {
             "className": "kimbab1",
             "css": {
@@ -192,16 +202,6 @@
                 "course": "color: white;",
                 "kcal": "color:white;",
                 "floor": "color:white;"
-            }
-        },
-        "라" : {
-            "className" : "bin",
-            "css": {
-                "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/pending.jpg'); background-size: auto 100%; background-position-x:center;background-position-y:20px",
-                "title": "color:black;",
-                "course": "color: black;",
-                "kcal": "color:black;",
-                "floor": "color:black;"
             }
         }
     }
