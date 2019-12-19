@@ -195,9 +195,9 @@
             }
         },
         "라" : {
-            "className" : "ramen2",
+            "className" : "bin",
             "css": {
-                "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/pending.jpg'); background-size: auto 100%; background-position-x:center;",
+                "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/pending.jpg'); background-size: auto 100%; background-position-x:center;background-position-y:20px",
                 "title": "color:black;",
                 "course": "color: black;",
                 "kcal": "color:black;",
