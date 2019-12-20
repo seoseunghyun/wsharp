@@ -206,16 +206,6 @@
                 "card" : "background: url('https://images.unsplash.com/photo-1560963805-6c64417e3413?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1021&q=80'); background-size: auto 120%; background-position-x: -60px;"
             }
         },
-        "아메리칸" : {
-            "className" : "american1",
-            "css": {
-                "card" : "background: url('https://seoseunghyun.github.io/wsharp/resource/img/american1.jpg'); background-size: 100% auto;",
-                "title": "color:black;",
-                "course": "color: black;",
-                "kcal": "color:white;",
-                "floor": "color:white;"
-            }
-        },
         "라멘" : {
             "className" : "ramen2",
             "css": {
