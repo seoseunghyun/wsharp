@@ -121,7 +121,7 @@
         "죽" : {
             "className" : "zook1",
             "css": {
-                "card" : "background: url('https://images.unsplash.com/photo-1476718406336-bb5a9690ee2a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80'); background-size: auto 160%; background-position-y: -30px;",
+                "card" : "background: url('https://images.unsplash.com/photo-1476718406336-bb5a9690ee2a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80'); background-size: auto 160%; background-position-y: -50px;",
                 "title": "color:white;",
                 "course": "color: white;"
             }
