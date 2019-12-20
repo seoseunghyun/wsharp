@@ -3,7 +3,7 @@
     "updateUrl": "https://seoseunghyun.github.io/wsharp/apk/wellsharp_v191220_beta_v4.apk",
     "toastMessage" : "\r\n\r\n[TIP!]\r\n\r\n음식을 누르면 디테일 칼로리가!?\r\n\r\n",
     "updateContents": "최신 버전이 아닙니다.",
-    "emergencyCode" : "setTimeout(function () { window.emergencyCode = ''; }, 100);var sheet = document.createElement('style');var sheet_str = '#wrapper_body.fl_5 .categoryWrapper.fl_5f {display:inline;}';var head = document.head || document.getElementsByTagName('head')[0];sheet.type='text/css';sheet.appendChild(document.createTextNode(sheet_str));head.appendChild(sheet);selector('#wrapper_body .categoryWrapper').forEach(function(e){e.classList.remove('hide');});",
+    "emergencyCode" : "setTimeout(function () { window.emergencyCode = ''; }, 100);var sheet = document.createElement('style');var sheet_str = '#wrapper_body.fl_5 .categoryWrapper.fl_5f {display:inline;}';sheet_str += ' #wrapper_body.fl_3 .categoryWrapper.fl_3f {display:inline;}';var head = document.head || document.getElementsByTagName('head')[0];sheet.type='text/css';sheet.appendChild(document.createTextNode(sheet_str));head.appendChild(sheet);selector('#wrapper_body .categoryWrapper').forEach(function(e){alert(e.getAttribute('class'));});",
     "cafeteria": [
         "r3",
         "r4",
