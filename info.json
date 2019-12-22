@@ -217,9 +217,9 @@
             }
         },
         "고등어김치조림": {
-            "className": "80aec6b2-6a3b-41a1-9d01-f1e050d726ed",
+            "className": "196b0f7e2ab743cd8578283be9db4bb7",
             "css": {
-                "card": "background: url('http://samsungwelstory.com/data/manager/recipe/E59S/20191223/s20191216153154.png'); background-size: auto; background-position-x:center;background-position-x:center;background-repeat:none;",
+                "card": "background: url('http://samsungwelstory.com/data/manager/recipe/E59S/20191223/s20191216153154.png');background-position-x:center;background-position-x:center;background-repeat:none;",
                 "title": "color:black;font-size:17px;",
                 "course": "color: black;",
                 "kcal": "color:black;",
