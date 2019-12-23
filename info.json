@@ -1,7 +1,7 @@
 {
     "latestVersion": 0,
     "updateUrl": "https://seoseunghyun.github.io/wsharp/apk/wellsharp_v191220_beta_v4.apk",
-    "toastMessage" : "[공지]\r\n버그 리포트 / 음식 사진 공모받습니다 :)\r\nshn.seo91@gmail.com\r\n\r\n[TIP!]\r\n음식을 누르면 디테일 칼로리가!?\r\n",
+    "toastMessage" : "[공지]\r\n버그 리포트 / 음식 사진 공모받습니다 :)\r\nshn.seo91@gmail.com\r\n\r\n구미사업장 추가되었습니다~~! \r\n\r\n[TIP!]\r\n음식을 누르면 디테일 칼로리가!?\r\n",
     "updateContents": "*********** 베타 v3 업데이트!!! ***********\r\n\r\n여러분들의 수많은 피드백으로 시간 나는대로 업데이트 하고 있습니다.\r\n월급날에 맞추어 자잘한 수정 버전 먼저 배포드립니다~~!\r\n좋은 피드백 진심으로 감사합니당 :)\r\n\r\n[업뎃 내역]\r\n* 설정 페이지 추가되었습니다.\r\n- 카드 배경 이미지 없애는 기능 추가되었어요.\r\n(데이터 절약 좋구요~!)\r\n- 추후 여러가지 기능이 들어갈 예정입니다.\r\n\r\n* 전체적인 앱 속도 최적화\r\n- webkit 최적화 및 GPU 가속 DOM 최적화...(개발자.. ㅎㅎㅎ)\r\n등의 기술적인 수정으로 앱이 좀 더 빨라졌어요~~!\r\n다운 ㄱㄱㄱ\r\n\r\n* Resume시 현재 시간에 맞는 탭으로 이동\r\n- 앱 완전 종료가 아니라 백그라운드에서 다시 들어와도 현재 시간에 맞게 아침, 점심, 저녁 탭을 자동으로 보여줘요~~!\r\n\r\n* 간헐적 카드 렌더링 불가 수정\r\n- 가끔 앱 카드 앞면이 안보이는 경우가 있었는데 수정했어요~\r\n\r\n* 이것 저것 버그 수정\r\n- PLM 풀듯이 열심히 Resolve 했습니다. NR0를 향하여...\r\n\r\n지금 바로 다운 받으세요~~!\r\n감사합니다.\r\n",
     "emergencyCode" : "var sheet = document.createElement('style');var sheet_str = '#wrapper_body.fl_5 .categoryWrapper.fl_5f {display:inline;}';sheet_str += ' #wrapper_body.fl_3 .categoryWrapper.fl_3f {display:inline;}';var head = document.head || document.getElementsByTagName('head')[0];sheet.type='text/css';sheet.appendChild(document.createTextNode(sheet_str));head.appendChild(sheet);document.addEventListener('resume', function(){    selector('#wrapper_body .categoryWrapper').forEach(function(e){        e.classList.remove('hide');    });}, false);selector('#wrapper_time .btn_select').forEach(function (e2) {    e2.addEventListener('click', function () {        selector('#wrapper_body .categoryWrapper').forEach(function (e) {            e.classList.remove('hide');        });    }, false);});if(undefined !== selector('#wrapper_setting .title') && !!selector('#wrapper_setting .title') && undefined !== selector('#wrapper_setting .title')[0] && !!selector('#wrapper_setting .title')[0]) {    selector('#wrapper_setting .title')[0].innerHTML = 'Food<br/>Photo';}if(undefined !== selector('.btn_restaurant') && !!selector('.btn_restaurant') && undefined !== selector('.btn_restaurant')[0] && !!selector('.btn_restaurant')[0]) {    selector('.btn_restaurant').forEach(function(targetObject){        addEvent(targetObject, 'click', function () {            sceneManager.selectRadio('foodPicture', '1', function(){                sceneManager.saveNowData();            });        });    })} var currDate = getNowDate().split(' ')[0].split('/').join(''); if (nowDate != currDate) { var crtFlr = []; selector('#wrapper_body').classList.forEach(function (e2) { if (e2.indexOf('fl_') !== -1) { var flr = e2.replace('fl_', ''); crtFlr.push(flr); } }); sceneManager.getData(selector('#wrapper_restaurant .label_name')[0].innerHTML.toLowerCase(), currDate, function () { for (var ii in crtFlr) { sceneManager.setFloor(crtFlr[ii]); } selector('#wrapper_body').classList.remove('menu'); selector('#btn_menu').classList.remove('menu'); selector('#btn_setting').classList.remove('menu'); selector('#wrapper_setting').classList.remove('menu'); selector('#select_restaurant').classList.remove('menu'); }); }",
     "cafeteria": [
@@ -12,7 +12,11 @@
         "smart",
         "family",
         "together",
-        "우면"
+        "우면",
+        "구미1캠",
+        "구미1식당",
+        "구미2식당",
+        "구미3식당"
     ],
     "defaultCategory" : "· · ·",
     "category" : {
