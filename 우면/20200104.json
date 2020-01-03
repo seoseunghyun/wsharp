@@ -1,1 +1,1 @@
-{"restaurant":{"name":"우면","hallList":["cafe1","cafe2"]},"menuList":{"morning":{},"lunch":{},"dinner":{},"midnight":{}}}
+{"restaurant":{"name":"우면","hallList":["cafe1","cafe2"]},"menuList":{"morning":{},"lunch":{"2AAE5J2":{"title":"닭개장","course":"봄이온소반","totalKcal":809,"kcal":316,"imgUrl":"https://samsungwelstory.com/data/manager/recipe/E5J2/20200104/mo20200103114450.png","list":[{"title":"닭개장","kcal":316},{"title":"흑미밥","kcal":329},{"title":"연두부찜&양념장","kcal":74},{"title":"새송이버섯볶음","kcal":64},{"title":"해초샐러드","kcal":26}],"hallFloor":["cafe2"]}},"dinner":{},"midnight":{}}}
