@@ -1,1 +1,1 @@
-{"restaurant":{"name":"구미3식당","hallList":["구미3식당"]},"menuList":{"morning":{},"lunch":{},"dinner":{},"midnight":{}}}
+{"restaurant":{"name":"구미3식당","hallList":["구미3식당"]},"menuList":{"morning":{"1AAE21F":{"title":"훈제오리볶음밥","course":"B코너","totalKcal":874,"kcal":874,"imgUrl":"https://seoseunghyun.github.io/wsharp/resource/img/pending.jpg","list":[{"title":"훈제오리볶음밥","kcal":874},{"title":"시래기국","kcal":0},{"title":"명엽채조림","kcal":0},{"title":"부추생채/마늘종장아찌","kcal":0}],"hallFloor":["구미3식당"]}},"lunch":{},"dinner":{},"midnight":{}}}
