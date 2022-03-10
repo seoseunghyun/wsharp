@@ -1,1 +1,1 @@
-{"restaurant":{"name":"우면","hallList":["cafe1","cafe2"]},"menuList":{"morning":{},"lunch":{},"dinner":{},"midnight":{}}}
+{"restaurant":{"name":"우면","hallList":["cafe1","cafe2"]},"menuList":{"morning":{},"lunch":{"2GGE5J4":{"title":"함박스테이크&새우튀김&카레라이스 ","course":"T/O  피크닉","totalKcal":987,"kcal":982,"imgUrl":"https://seoseunghyun.github.io/wsharp/resource/img/pending.jpg","list":[{"title":"함박스테이크&새우튀김&카레라이스 ","kcal":982},{"title":"압축단무지","kcal":5},{"title":"생수","kcal":0}],"hallFloor":["cafe2"]}},"dinner":{},"midnight":{}}}
